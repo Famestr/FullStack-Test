@@ -7,7 +7,6 @@ We request that you build a dynamic web page using open source libraries and too
 PHP, Javascript and CSS are the only core tools we want you to use for this demonstration of your skill set. 
 Using PHP or Javascript frameworks is highly encouraged and would score you extra points (as long as the end result works without too much configuration).
 
-================
 PHP Requirements
 ================
 
@@ -18,7 +17,6 @@ Extra points for using an PHP MVC framework to achieve this part.
 The URL should be able to take 3 GET or POST string arguments : "firstname", "surname" and "email". 
 These arguments should be used to limit the results in the JSON output to only include records the search strings match in their respective MySQL database fields. 
 
-============================
 Javascript / UI Requirements
 ============================
 
@@ -32,3 +30,12 @@ Once you have created the JSON web service to consume you should build a javascr
 This table should employ pagination.
 
 3. Create text fields that when typed into, limits the results based on the firstname, surname and email of the member and redraws the table with the limited results.
+
+Conclusion
+============================
+
+I thorougly ejoyed this project as I was able to study and apply 2 new frameworks (Laravel and Vue). Also, I believe I could use this for my personal projects to keep track of all the Books, TV shows, Movies, and other medias that I've consumed thus far.
+
+If you need help viewing this project or would like additional information regarding this project, please feel free to contact me on my email at fahimbhimani@hotmail.com
+
+Have an awesome day :)
