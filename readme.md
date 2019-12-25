@@ -1,4 +1,4 @@
-This is a project that I created for a job application that I recently applied for. I used Lavarvel as the PHP framework and Vue Js for the JavaScript framework in this project. Currently, I'm actively seeking an employment / freelance position, so if you like what you see and would like to use my skill, feel free to contact me on my email at fahimbhimani@hotmail.com
+This is a project that I created for a job application that I recently applied for. I used Lavarvel as the PHP framework and Vue Js for the JavaScript framework in this project. CSS and HTML were also used, this project was connected to an extenal mySQL database.  Currently, I'm actively seeking an employment / freelance position, so if you like what you see and would like to use my skill, feel free to contact me on my email at fahimbhimani@hotmail.com
 
 Introduction
 ================
@@ -10,7 +10,7 @@ Using PHP or Javascript frameworks is highly encouraged and would score you extr
 PHP Requirements
 ================
 
-We would like to see you use PHP to select data from a mysql database table (see included members.sql) and produce a JSON view of this data. 
+We would like to see you use PHP to select data from a mysql database table and produce a JSON view of this data. 
 Your javascript application will consume and display this data according to the "Javascript / UI Requirements" section below. 
 
 Extra points for using an PHP MVC framework to achieve this part. 
