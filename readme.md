@@ -1,6 +1,5 @@
 This is a project that I created for a job application that I recently applied for. I used Lavarvel as the PHP framework and Vue Js for the JavaScript framework in this project. Currently, I'm actively seeking an employment / freelance position, so if you like what you see and would like to use my skill, feel free to contact me on my email at fahimbhimani@hotmail.com
 
-================
 Introduction
 ================
 
