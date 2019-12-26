@@ -34,7 +34,7 @@ This table should employ pagination.
 Conclusion
 ============================
 
-I thorougly ejoyed this project as I was able to study and apply 2 new frameworks (Laravel and Vue). Also, I believe I could use this for my personal projects to keep track of all the Books, TV shows, Movies, and other medias that I've consumed thus far.
+I thorougly enjoyed working on this project as I was able to study and apply 2 new frameworks (Laravel and Vue). Also, I believe I could use this for my personal projects for vaious tasks such as a database that could keep track of all the Books, TV shows, Movies, and other medias that I've consumed thus far.
 
 If you need help viewing this project or would like additional information regarding this project, please feel free to contact me on my email at fahimbhimani@hotmail.com
 
